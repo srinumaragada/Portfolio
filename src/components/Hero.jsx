@@ -72,7 +72,7 @@ const Hero = () => {
             className="flex flex-wrap gap-4 pt-2"
           >
             <motion.a
-              href="/Maragada_Srinu_Resume.pdf"
+              href="/projects/Maragada Srinu Resume.pdf"
               download
               className="flex items-center gap-2 bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-6 py-3 rounded-lg shadow-lg font-semibold hover:from-indigo-500 hover:to-purple-500 transition-all"
               whileHover={{ y: -3, scale: 1.02 }}
