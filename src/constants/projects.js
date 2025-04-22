@@ -2,7 +2,7 @@ export const projects = [
     {
       title: "E-Commerce Website",
       description: "A full-featured e-commerce platform with product listings, cart functionality, and secure payments.",
-      image: "../../public/projects/image.png", // Replace with your image path
+      image: "/projects/image.png", // Replace with your image path
       githubUrl: "https://github.com/srinumaragada/E-Commerce-Website",
       demoUrl: "https://e-commerce-frontend-ten-phi.vercel.app/",
       features: [
@@ -21,7 +21,7 @@ export const projects = [
     {
       title: "Book Store Website",
       description: "An online bookstore with extensive catalog and optimized search functionality.",
-      image: "../../public/projects/image1.png", // Replace with your image path
+      image: "./projects/image1.png", // Replace with your image path
       githubUrl: "https://github.com/srinumaragada/Book-store-Frontend",
       demoUrl: "https://book-store-frontend-zeta-ashy.vercel.app/",
       features: [
@@ -40,7 +40,7 @@ export const projects = [
     {
         "title": "MemeVerse",
         "description": "A multi-page, highly interactive website where users can explore, upload, and interact with memes.",
-        "image": "../../public/projects/image2.png",
+        "image": "/projects/image2.png",
         "demoUrl": "https://memeversewebsite.netlify.app/",
         "githubUrl": "https://github.com/srinumaragada/memeverse",
         "features": [
@@ -69,7 +69,7 @@ export const projects = [
       {
         "title": "AI-Powered Lesson Planner",
         "description": "Web application for educators to create structured lesson plans using Google Gemini AI.",
-        "image": "../../public/projects/Screenshot 2025-04-21 172241.png",
+        "image": "/projects/Screenshot 2025-04-21 172241.png",
         "demoUrl": "https://lesson-planner-azure.vercel.app/",
         "githubUrl": "https://github.com/srinumaragada/lesson-planner",
         "features": [
